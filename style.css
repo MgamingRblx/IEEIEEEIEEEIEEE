@@ -20,7 +20,7 @@ background-image: linear-gradient(to right top, #33a0f1, #2591d9, #1882c1, #0a73
 
 .login_div
 {
-	background: rgba(255,255,255,0.8);float: none;border-radius: 15px;
+	background: rgba(131, 33, 179, 0.8);float: none;border-radius: 15px;
 }
 
 .logo
@@ -81,7 +81,7 @@ background-image: linear-gradient(to right top, #33a0f1, #2591d9, #1882c1, #0a73
 }
 .color_white
 {
-	color: white
+	color: rgb(234, 44, 130)
 }
 
 .user_tick
